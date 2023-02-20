@@ -9,7 +9,7 @@
 #include <string>
 #include <vector>
 #include <array>
-//3
+//3 сколько слов в тексте состоит из 6 символов
 //int main(){
 //    std::string txt;
 //    int count = 0, point = 0;
@@ -83,11 +83,6 @@
 //    std::cout<<"Numbers:"<<count<<'\n';
 //    return 0;
 //}
-
-
-
-
-
 
 //// 21 дан текст заменить все числа на соотвествующие слова
 //int main() {
