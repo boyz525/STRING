@@ -7,8 +7,6 @@
 
 #include <iostream>
 #include <string>
-#include <vector>
-#include <array>
 //3 сколько слов в тексте состоит из 6 символов
 //int main(){
 //    std::string txt;
